@@ -2,15 +2,15 @@
 
 ###
 
-<p align="center">DevOps engineer with extensive experience with container technologies, IaC, observability tools, Windows and Unix/Linux server administration. Constantly updating and learning with new market technologies. Experience with clients such as Caixa Econômica Federal, Banco do Brasil Asset Management, Petrobras, INPI, Siqueira Castro Advogados, among others.</p>
+<p align="left">DevOps engineer with extensive experience with container technologies, IaC, observability tools, Windows and Unix/Linux server administration. Constantly updating and learning with new market technologies. Experience with clients such as Caixa Econômica Federal, Banco do Brasil Asset Management, Petrobras, INPI, Siqueira Castro Advogados, among others.</p>
 
 ###
 
-<h2 align="center">Techs</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -48,13 +48,13 @@
 
 ###
 
-<h2 align="center">Stats</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romulo-projects&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romulo-projects&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romulo-projects&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romulo-projects&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
