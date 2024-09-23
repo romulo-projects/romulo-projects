@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">DevOps engineer with extensive experience with container technologies, IaC, observability tools, Windows and Unix/Linux server administration. Constantly updating and learning with new market technologies. Experience with clients such as Caixa Econômica Federal, Banco do Brasil Asset Management, Petrobras, INPI, Siqueira Castro Advogados, among others.</p>
+<p align="left">DevOps Engineer with extensive experience in container technologies, IaC, observability tools, and Windows and Unix/Linux server administration. Continuously updating and learning new market technologies. Experienced with clients such as Caixa Econômica Federal, Banco do Brasil Asset Management, Petrobras, INPI, Siqueira Castro Advogados, among others.</p>
 
 ###
 
