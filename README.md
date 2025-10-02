@@ -6,6 +6,12 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/romulo-della-libera-731024141/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</div>
+
 <h2 align="left">Algumas Tecnologias</h2>
 
 ###
