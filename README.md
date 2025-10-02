@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Algumas Tecnologias que domino</h2>
+<h2 align="left">Algumas Tecnologias</h2>
 
 ###
 
