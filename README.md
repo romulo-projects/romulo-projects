@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Romulo e atuo como Engenheiro DevOps no Tribunal de Justiça do Estado do Rio de Janeiro. Possuo vasta experiência em tecnologias de containers, IaC, ferramentas de observabilidade e administração de servidores Windows e Unix/Linux. Curto muito ferramentas Open Source e estou sempre me atualizando e aprendendo continuamente novas tecnologias do mercado. Já atuei em grandes clientes como Caixa Econômica Federal, Banco do Brasil Asset Management, Petrobras, INPI, Siqueira Castro Advogados, entre outros.</p>
+<p align="left">Meu nome é Romulo e atuo como Analista Middleware / DevOps no Tribunal de Justiça do Estado do Rio de Janeiro. Possuo vasta experiência em tecnologias de containers, IaC, ferramentas de observabilidade e administração de servidores Windows e Unix/Linux. Curto muito ferramentas Open Source e estou sempre me atualizando e aprendendo continuamente novas tecnologias do mercado. Já atuei em grandes clientes como Caixa Econômica Federal, Banco do Brasil Asset Management, Petrobras, INPI, Siqueira Castro Advogados, entre outros.</p>
 
 ###
 
@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h2 align="left">Algumas Tecnologias</h2>
+<h2 align="left">Algumas Tecnologias que Conheço</h2>
 
 ###
 
