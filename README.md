@@ -1,7 +1,7 @@
 <h1 align="center">Romulo | DevOps & Middleware Engineer</h1>
 
 <p align="center">
-Cloud • Containers • IaC • Observability • Reliability Engineering
+DevOps • Cloud • Containers • IaC • Observability • Reliability Engineering
 </p>
 
 ---
@@ -25,25 +25,25 @@ Participei de projetos para organizações como **Caixa Econômica Federal, Banc
 ## 🧱 Principais Competências
 
 **Containers & Orquestração**  
-Kubernetes • Docker • Podman  
+Kubernetes (Nativo, EKS, AKS, Openshift) • Docker • Podman 
 
 **Cloud**  
-Microsoft Azure • AWS  
+Microsoft Azure • AWS • Oracle Cloud
 
 **Infraestrutura como Código & Automação**  
-Terraform • Ansible • Azure DevOps  
+Azure DevOps • Terraform • Ansible
 
 **Observabilidade**  
-Elasticsearch • Prometheus • Grafana  
+Elasticsearch • Prometheus • Grafana • Dynatrace • Zabbix
 
 **Web & Middleware**  
-Nginx • Apache  
+Nginx • Apache • jboss • IIS
 
 **Sistemas Operacionais**  
-Linux • Red Hat  
+Unix/Linux (Red Hat) • Windows 
 
 **Linguagens**  
-Python • JavaScript  
+Python • JavaScript • Shell Script
 
 ---
 
