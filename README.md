@@ -1,92 +1,67 @@
 <h1 align="center">Romulo | DevOps & Middleware Engineer</h1>
 
 <p align="center">
-Especialista em Containers, Cloud, IaC e Observabilidade
+Cloud • Containers • IaC • Observability • Reliability Engineering
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💼 Perfil Profissional
 
-Atuo como **Analista Middleware / DevOps** no Tribunal de Justiça do Estado do Rio de Janeiro, com experiência sólida em:
+Atuo como **Analista Middleware / DevOps** no Tribunal de Justiça do Estado do Rio de Janeiro, com foco em ambientes críticos, alta disponibilidade e automação de infraestrutura.
 
-- Arquitetura e operação de ambientes containerizados  
-- Infraestrutura como Código (IaC)  
-- Observabilidade e monitoramento de aplicações  
-- Administração de servidores Windows e Linux  
-- Automação e CI/CD  
+Tenho experiência consolidada em:
 
-Tenho forte afinidade com tecnologias Open Source e foco contínuo em evolução técnica, boas práticas de engenharia e confiabilidade operacional.
+- Arquitetura e operação de plataformas containerizadas
+- Infraestrutura como Código (IaC)
+- Observabilidade e monitoramento orientado a métricas
+- Administração de ambientes Linux e Windows
+- Padronização e automação de processos DevOps
 
-Ao longo da minha trajetória, atuei em projetos para organizações como:
-
-- Caixa Econômica Federal  
-- Banco do Brasil Asset Management  
-- Petrobras  
-- INPI  
-- Siqueira Castro Advogados  
+Participei de projetos para organizações como **Caixa Econômica Federal, Banco do Brasil Asset Management, Petrobras, INPI e Siqueira Castro Advogados**.
 
 ---
 
-## 🔗 Contato
+## 🧱 Principais Competências
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/romulo-della-libera-731024141/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-</div>
+**Containers & Orquestração**  
+Kubernetes • Docker • Podman  
 
----
+**Cloud**  
+Microsoft Azure • AWS  
 
-## 🚀 Stack Tecnológica
+**Infraestrutura como Código & Automação**  
+Terraform • Ansible • Azure DevOps  
 
-### 🧩 Containers & Orquestração
-- Kubernetes  
-- Docker  
-- Podman  
+**Observabilidade**  
+Elasticsearch • Prometheus • Grafana  
 
-### ☁️ Cloud
-- Microsoft Azure  
-- AWS  
+**Web & Middleware**  
+Nginx • Apache  
 
-### 🏗 Infraestrutura como Código & Automação
-- Terraform  
-- Ansible  
-- Azure DevOps  
+**Sistemas Operacionais**  
+Linux • Red Hat  
 
-### 📊 Observabilidade
-- Elasticsearch  
-- Prometheus  
-- Grafana  
-
-### 🖥 Sistemas Operacionais
-- Linux  
-- Red Hat  
-
-### 🌐 Web & Middleware
-- Nginx  
-- Apache  
-
-### 💻 Linguagens & Desenvolvimento
-- Python  
-- JavaScript  
-- HTML5  
-- CSS3  
-
-### 🔁 Versionamento
-- Git  
+**Linguagens**  
+Python • JavaScript  
 
 ---
 
-## 🎯 Foco Profissional
+## 🎯 Direcionamento Profissional
 
-- Confiabilidade e estabilidade de ambientes críticos  
-- Padronização e automação de infraestrutura  
-- Observabilidade orientada a métricas e logs  
-- Cultura DevOps e melhoria contínua  
+- Confiabilidade e resiliência de ambientes produtivos  
+- Automação e redução de esforço operacional  
+- Observabilidade orientada a performance e disponibilidade  
+- Evolução contínua de práticas DevOps  
 
 ---
 
 <p align="center">
-Obrigado por visitar meu perfil.
+Conecte-se comigo no LinkedIn para networking e oportunidades.
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/romulo-della-libera-731024141/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</div>
