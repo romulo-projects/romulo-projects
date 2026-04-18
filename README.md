@@ -6,7 +6,7 @@ DevOps • Cloud • Containers • IaC • Observability • Reliability Engine
 
 ---
 
-## 👨‍💼 Perfil Profissional
+## 👨‍💼 Olá!
 
 Atuo como **Analista Middleware / DevOps** no Tribunal de Justiça do Estado do Rio de Janeiro, com foco em ambientes críticos, alta disponibilidade e automação de infraestrutura.
 
